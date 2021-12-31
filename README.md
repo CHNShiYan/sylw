@@ -6,4 +6,4 @@ To 小石：
 
 死鬼，ser_end_i_pity
 
-![Image text](https://github.com/CHNShiYan/sylw/blob/main/imgs/1.jpg)
+![image](https://github.com/CHNShiYan/sylw/blob/main/imgs/1.jpg)
